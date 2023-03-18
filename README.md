@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pasinduanuradhaperera
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Programming   <p style ="text-size:20px;">😎</p>                                         
 - 🌱 I’m currently learning Python for Machine Lerning
 <!---
 pasinduanuradhaperera/pasinduanuradhaperera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
