@@ -4,7 +4,7 @@
   ### a Software Developer 👨‍💻 and A Student of Computer Science.
   
   ### I spend most of my time 
-  # 👨‍💻  🍔  😴
+  # 👨‍💻&nbsp;🍔&nbsp;😴
 
   🌱 I’m currently Working on 
   - Python for Machine Lerning
