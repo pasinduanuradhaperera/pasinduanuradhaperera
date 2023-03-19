@@ -1,11 +1,12 @@
 ## Hi I'm PasinduAnuradhaPerera <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
  
-  I'm Pasindu Anuradha Perera 😎 a Software Developer 👨‍💻 and A Student of Computer Science. I spend most of my time :
+  I'm Pasindu Anuradha Perera 😎 a Software Developer 👨‍💻 and A Student of Computer Science. I spend most of my time 
 
   🌱 I’m currently Working on 
   - Python for Machine Lerning
   - React 
   - Ethical Hacking and Cyber Security
+  
   
 <!---
 pasinduanuradhaperera/pasinduanuradhaperera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
