@@ -10,10 +10,10 @@
   - Python for Machine Lerning
   - React 
   - Ethical Hacking and Cyber Security
- 
+ ## 📫Reach me out!
  <a href = "https://www.linkedin.com/in/pasindu-perera-6a2bb0252/"> <img src="https://whiterecruitment.com/wp-content/uploads/sites/8/2022/03/Linkedin-Logo.png" alt="linked in" style="width:100px; height:50px;"></a>&nbsp;&nbsp;<a href = "https://twitter.com/pasindu10748863"> <img src="https://freepngimg.com/save/18819-twitter-png-hd/2100x790" alt="twitter" style="width:100px; height:38px;"></a>
  
- <a href="pasinduanuradhaperera@gmail.com"><img src="https://i0.wp.com/pinkeyegraphics.co.uk/wp-content/uploads/icon-google-gmail-new-329x329-1.png?fit=329%2C329&ssl=1" alt="mail" style="width:50px; height:50px;"></a>
+ <a src ="pasinduanuradhaperera@gmail.com"><img src="https://i0.wp.com/pinkeyegraphics.co.uk/wp-content/uploads/icon-google-gmail-new-329x329-1.png?fit=329%2C329&ssl=1" alt="mail" style="width:50px; height:50px;"></a>
 
  
  
