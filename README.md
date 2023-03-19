@@ -10,8 +10,8 @@
   - Python for Machine Lerning
   - React 
   - Ethical Hacking and Cyber Security
-  
-  
+  <a href = "https://twitter.com/pasindu10748863"> <img src="https://whiterecruitment.com/wp-content/uploads/sites/8/2022/03/Linkedin-Logo.png" alt="linked in" style="width:100px; height:50px;"></a>
+ 
 <!---
 pasinduanuradhaperera/pasinduanuradhaperera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
