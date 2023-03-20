@@ -39,5 +39,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
   </a></a><a href="https://twitter.com/pasindu10748863" rel="nofollow">
     <img src="https://img.shields.io/twitter/follow/pasindu10748863?color=%231DA1F2&label=TWITTER&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge" style="max-width: 100%;"></p>
+<p align = "center" dir ="auto"><a href="mailto:paisnduanuradhaperera@gmail.com"><img src="https://camo.githubusercontent.com/b0e2ab2db780e685042a317e421bffe0c8c1e19f587f846b4f98e3ec97a62af6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d69736c656d70656e797769732d6330333932623f7374796c653d666c6174266c6162656c436f6c6f723d633033393262266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Mail Badge" data-canonical-src="https://img.shields.io/badge/-islempenywis-c0392b?style=flat&amp;labelColor=c0392b&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a></p>
+
  
-  <p align = "center" dir ="auto"><img src="https://i0.wp.com/pinkeyegraphics.co.uk/wp-content/uploads/icon-google-gmail-new-329x329-1.png?fit=329%2C329&ssl=1" alt="mail" style="width:50px; height:50px;"> </p> <p align = "center" dir ="auto"> <a> pasinduanuradhaperera@gmail.com </a> </p>
+ 
