@@ -8,14 +8,11 @@
  
   <p align = "center" dir ="auto"><img src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/50603/man-technologist-emoji-clipart-xl.png" alt="coding" style="width:50px; height:50px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.pngall.com/wp-content/uploads/2016/05/Burger-Free-Download-PNG.png" alt="eat" style="width:70px; height:50px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.shopify.com/s/files/1/1061/1924/products/Sleeping_Emoji_large.png?v=1571606036" alt="sleep" style="width:50px; height:50px;"></p>
 
-![snake gif](https://github.com/pasinduanuradhaperera/pasinduanuradhaperera/blob/output/github-contribution-grid-snake.gif)
- 
-
   🌱 I’m currently Working on 
   - Python for Machine Lerning
   - React 
   - Ethical Hacking and Cyber Security
-
+![snake gif](https://github.com/pasinduanuradhaperera/pasinduanuradhaperera/blob/output/github-contribution-grid-snake.gif)
 
  
  
