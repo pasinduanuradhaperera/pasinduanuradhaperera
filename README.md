@@ -12,7 +12,7 @@
   - Python for Machine Lerning
   - React 
   - Ethical Hacking and Cyber Security
-![snake gif](https://github.com/pasinduanuradhaperera/pasinduanuradhaperera/blob/output/github-contribution-grid-snake.gif)
+
 
  
  
