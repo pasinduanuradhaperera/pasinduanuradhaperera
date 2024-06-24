@@ -3,7 +3,7 @@ I'm a passionate software developer and a Computer Science student, always eager
 
 - 🔭 I’m currently working on enhancing my skills in Python for Machine Learning, mastering React, and diving deep into Ethical Hacking and Cyber Security.
 - 🌱 I’m currently learning everything I can get my hands on!
-- 👯 I’m looking to collaborate with other developers on interesting projects.
+- 🤝 I’m looking to collaborate with other developers on interesting projects.
 - 💬 Ask me about anything tech-related, I'm happy to help!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pasindu-perera-6a2bb0252/), [Instagram](https://www.instagram.com/pasinduanuradhaperera/), [Twitter](https://twitter.com/pasindu10748863), [Email](mailto:paisnduanuradhaperera@gmail.com)
 
