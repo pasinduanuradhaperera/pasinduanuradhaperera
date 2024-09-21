@@ -15,7 +15,7 @@ I'm a passionate software developer and a Computer Science student, always eager
 
 **Libraries:**
 
-<img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="NumPy" width="50" height="50">&nbsp;&nbsp;<img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" alt="Pandas" width="50" height="50">&nbsp;&nbsp;<img src="https://techgator.in/wp-content/uploads/2021/07/python-turtle.jpeg" alt="Turtle" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="NumPy" width="50" height="50">&nbsp;&nbsp;<img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" alt="Pandas" width="50" height="50">&nbsp;&nbsp;<img src="https://techgator.in/wp-content/uploads/2021/07/python-turtle.jpeg" alt="Turtle"  height="50">
 
 **Frameworks:**
 
